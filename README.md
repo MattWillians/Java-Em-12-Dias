@@ -7,4 +7,4 @@ o Java é uma linguagem compilada, o que permite ser executada em qualquer maqui
 
 Java é uma linguagem versátil e multitarefa... ou seja, podemos usa-la em varios clusters de desenvolvimento.. seja desenvolvimento de jogos, Aplicações mobile, sistemas corporativos, aplicativos de bate-papo entre outros
 
-Java possui uma vasta biblioteca de recursos, podendo atender milhares de necessidades.
+Java possui uma vasta biblioteca de recursos, podendo atender milhares de necessidades. 
