@@ -11,6 +11,18 @@ public class MetodosArrayList {
        nomesDeCarros.add("Pajero Dakar");
        nomesDeCarros.add("Astra Sedan");
 
+       System.out.println(nomesDeCarros.toString());
+       System.out.println(nomesDeCarros.size());
        
+       nomesDeCarros.set(0, "Ford Fiesta");
+       nomesDeCarros.set(3, "Pajero Full");
+
+       System.out.println(nomesDeCarros.toString());
+
+       nomesDeCarros.remove(0);
+
+       System.out.println(nomesDeCarros.toString());
+       System.out.println(nomesDeCarros.size());
+
     }
 }
